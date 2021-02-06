@@ -14,5 +14,5 @@ Keyboard effect is by [herraportti](https://freesound.org/people/herraportti/sou
 Bongo Cat was originally created by [@StrayRogue](https://twitter.com/StrayRogue) and [@DitzyFlama](https://twitter.com/DitzyFlama)
 
 # Licensing 
-MIT license
+[MIT license](https://github.com/bubloo7/Coding-Cat/blob/master/LICENSE.md)
 
