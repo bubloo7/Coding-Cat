@@ -1,7 +1,8 @@
 # Coding Cat
+![](cat.gif)
 Coding cat is a cute cat that will vibe with you and motivate you to write.
 # Installation
-Head over to releases and download the zip file. After you unzip everything, just click the exe!
+Head over to releases and download the cat.zip file. After you unzip everything, just click the exe!
 # Credits
 The original is by [Caroline Artz](https://twitter.com/carolineartz?lang)! Go check them out!
 
@@ -14,5 +15,5 @@ Keyboard effect is by [herraportti](https://freesound.org/people/herraportti/sou
 Bongo Cat was originally created by [@StrayRogue](https://twitter.com/StrayRogue) and [@DitzyFlama](https://twitter.com/DitzyFlama)
 
 # Licensing 
-MIT license
+[MIT license](https://github.com/bubloo7/Coding-Cat/blob/master/LICENSE.md)
 
