@@ -7,6 +7,8 @@ Head over to releases and download the cat.zip file. After you unzip everything,
 # Credits
 The original is by [Caroline Artz](https://twitter.com/carolineartz?lang)! Go check them out!
 
+Inspired by [this](https://hostrider.com/)!
+
 Processing code for a movable, borderless processing application is by [KrabCode](https://gist.github.com/KrabCode/5ca9698e5f8b141c112123f286a54a2b)!
 
 Uses the [jnativehook library](https://github.com/kwhat/jnativehook) to get global keyboard input!
